@@ -1,9 +1,9 @@
 {
-    "customizations": {
-        "vscode": {
-            "settings": {
-                "workbench.startupEditor": "newUntitledFile"
-            }
-        }
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "workbench.startupEditor": "none"
+      }
     }
+  }
 }
